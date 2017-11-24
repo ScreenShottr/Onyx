@@ -1,5 +1,5 @@
 # Onyx URL Shortener
-
+[![CircleCI](https://circleci.com/gh/ScreenShottr/Onyx.svg?style=svg)](https://circleci.com/gh/ScreenShottr/Onyx)
 Written in Node.JS using Serverless architecture for AWS
 
 * API Gateway
